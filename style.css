@@ -1,0 +1,31 @@
+body{
+    font-family: sans-serif;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: rgba(0, 17, 255, 0.493);
+}
+
+label {
+    font-size: 20px;
+    display: block;
+    padding-top: 10px ;
+    padding-bottom: 15px;
+}
+input, textarea, select{
+    display: block;
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+
+
+.button-area {
+    float: left;
+    width: 50%;
+    height: 50%;
+}
+
+form  {
+    background-color: rgba(0, 162, 255, 0.726);
+    padding: 20px 20px 20px 20px;
+}
